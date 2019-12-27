@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6bc194d7-c037-42ce-bbf4-f80fa5e25346" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/behavioral/memento/example1/EverydayEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/behavioral/memento/example1/EverydayEmployee.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VZGx50xKHx6bNYId00BuEKQp7x" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pc\Repository\inno20gof3\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn  clean install" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.MediatorDemo1">
+    <configuration name="MediatorDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="behavioral.mediator.example1.MediatorDemo1" />
+      <module name="gof_behavioral" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="behavioral.mediator.example1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StateDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="behavioral.state.example1.StateDemo1" />
+      <module name="gof_behavioral" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="behavioral.state.example1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StrategyEverydayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="behavioral.strategy.example1.StrategyEverydayDemo" />
+      <module name="gof_behavioral" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="behavioral.strategy.example1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TemplateMethodDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="behavioral.templatemethod.example1.TemplateMethodDemo1" />
+      <module name="gof_behavioral" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="behavioral.templatemethod.example1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TemplateMethodEverydayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="behavioral.templatemethod.example1.TemplateMethodEverydayDemo" />
+      <module name="gof_behavioral" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="behavioral.templatemethod.example1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MediatorDemo1" />
+        <item itemvalue="Application.StateDemo1" />
+        <item itemvalue="Application.TemplateMethodEverydayDemo" />
+        <item itemvalue="Application.TemplateMethodDemo1" />
+        <item itemvalue="Application.StrategyEverydayDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6bc194d7-c037-42ce-bbf4-f80fa5e25346" name="Default Changelist" comment="" />
+      <created>1577453446250</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577453446250</updated>
+      <workItem from="1577453449199" duration="7454000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="107" key="#Project_Structure" timestamp="1577454780332">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="361" y="107" key="#Project_Structure/0.30.1536.834/1920.30.1920.1050@0.30.1536.834" timestamp="1577454780332" />
+    <state x="574" y="158" key="#com.intellij.ide.util.MemberChooser" timestamp="1577459385489">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="574" y="158" key="#com.intellij.ide.util.MemberChooser/0.30.1536.834/1920.30.1920.1050@0.30.1536.834" timestamp="1577459385489" />
+    <state x="457" y="30" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1577459105430">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="457" y="30" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.30.1536.834/1920.30.1920.1050@0.30.1536.834" timestamp="1577459105430" />
+    <state width="1877" height="362" key="GridCell.Tab.0.bottom" timestamp="1577462160018">
+      <screen x="-1920" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="362" key="GridCell.Tab.0.bottom/0.30.1536.834/-1920.30.1920.1050@-1920.30.1920.1050" timestamp="1577462160018" />
+    <state width="1493" height="276" key="GridCell.Tab.0.bottom/0.30.1536.834/1920.30.1920.1050@0.30.1536.834" timestamp="1577459917918" />
+    <state width="1877" height="362" key="GridCell.Tab.0.center" timestamp="1577462160017">
+      <screen x="-1920" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="362" key="GridCell.Tab.0.center/0.30.1536.834/-1920.30.1920.1050@-1920.30.1920.1050" timestamp="1577462160017" />
+    <state width="1493" height="276" key="GridCell.Tab.0.center/0.30.1536.834/1920.30.1920.1050@0.30.1536.834" timestamp="1577459917917" />
+    <state width="1877" height="362" key="GridCell.Tab.0.left" timestamp="1577462160017">
+      <screen x="-1920" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="362" key="GridCell.Tab.0.left/0.30.1536.834/-1920.30.1920.1050@-1920.30.1920.1050" timestamp="1577462160017" />
+    <state width="1493" height="276" key="GridCell.Tab.0.left/0.30.1536.834/1920.30.1920.1050@0.30.1536.834" timestamp="1577459917917" />
+    <state width="1877" height="362" key="GridCell.Tab.0.right" timestamp="1577462160017">
+      <screen x="-1920" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="362" key="GridCell.Tab.0.right/0.30.1536.834/-1920.30.1920.1050@-1920.30.1920.1050" timestamp="1577462160017" />
+    <state width="1493" height="276" key="GridCell.Tab.0.right/0.30.1536.834/1920.30.1920.1050@0.30.1536.834" timestamp="1577459917918" />
+    <state width="1877" height="362" key="GridCell.Tab.1.bottom" timestamp="1577462160018">
+      <screen x="-1920" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="362" key="GridCell.Tab.1.bottom/0.30.1536.834/-1920.30.1920.1050@-1920.30.1920.1050" timestamp="1577462160018" />
+    <state width="1493" height="276" key="GridCell.Tab.1.bottom/0.30.1536.834/1920.30.1920.1050@0.30.1536.834" timestamp="1577459917919" />
+    <state width="1877" height="362" key="GridCell.Tab.1.center" timestamp="1577462160018">
+      <screen x="-1920" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="362" key="GridCell.Tab.1.center/0.30.1536.834/-1920.30.1920.1050@-1920.30.1920.1050" timestamp="1577462160018" />
+    <state width="1493" height="276" key="GridCell.Tab.1.center/0.30.1536.834/1920.30.1920.1050@0.30.1536.834" timestamp="1577459917918" />
+    <state width="1877" height="362" key="GridCell.Tab.1.left" timestamp="1577462160018">
+      <screen x="-1920" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="362" key="GridCell.Tab.1.left/0.30.1536.834/-1920.30.1920.1050@-1920.30.1920.1050" timestamp="1577462160018" />
+    <state width="1493" height="276" key="GridCell.Tab.1.left/0.30.1536.834/1920.30.1920.1050@0.30.1536.834" timestamp="1577459917918" />
+    <state width="1877" height="362" key="GridCell.Tab.1.right" timestamp="1577462160018">
+      <screen x="-1920" y="30" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="362" key="GridCell.Tab.1.right/0.30.1536.834/-1920.30.1920.1050@-1920.30.1920.1050" timestamp="1577462160018" />
+    <state width="1493" height="276" key="GridCell.Tab.1.right/0.30.1536.834/1920.30.1920.1050@0.30.1536.834" timestamp="1577459917919" />
+    <state x="463" y="179" width="609" height="536" key="find.popup" timestamp="1577456740428">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="463" y="179" width="609" height="536" key="find.popup/0.30.1536.834/1920.30.1920.1050@0.30.1536.834" timestamp="1577456740428" />
+    <state x="425" y="204" width="672" height="677" key="run.anything.popup" timestamp="1577456748899">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="425" y="204" width="672" height="677" key="run.anything.popup/0.30.1536.834/1920.30.1920.1050@0.30.1536.834" timestamp="1577456748899" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/behavioral/mediator/example1/ConcreteMediator.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
